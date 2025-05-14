@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+    <meta charset="UTF-8">
+    <title>Global Food Science</title>
+    <style>
+        body { font-family: sans-serif; margin: 0; padding: 0; background: #fefefe; }
+        header { background: #2e8b57; color: white; padding: 1.5rem; text-align: center; }
+        nav { text-align: center; margin: 1rem; }
+        nav a { margin: 0 1rem; text-decoration: none; color: #2e8b57; font-weight: bold; }
+        section { padding: 2rem; max-width: 800px; margin: auto; }
+        footer { background: #f0f0f0; text-align: center; padding: 1rem; font-size: 0.9rem; }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Global Food Science</h1>
+        <p>专注于食品科技的创新与可持续发展</p>
+    </header>
+
+    <nav>
+        <a href="#about">公司简介</a>
+        <a href="#services">产品服务</a>
+        <a href="#team">团队</a>
+        <a href="#contact">联系我们</a>
+    </nav>
+
+    <section id="about">
+        <h2>关于我们</h2>
+        <p>Global Food Science 是一家致力于推动食品科学研究与应用的公司，专注于健康营养、食品安全与绿色生产的技术开发。</p>
+    </section>
+
+    <section id="services">
+        <h2>产品与服务</h2>
+        <ul>
+            <li>功能性食品研发</li>
+            <li>食品检测解决方案</li>
+            <li>OEM/ODM 合作</li>
+            <li>国际市场咨询与出口服务</li>
+        </ul>
+    </section>
+
+    <section id="team">
+        <h2>我们的团队</h2>
+        <p>我们由来自食品工程、营养学、生物科技等多个领域的专家组成，拥有丰富的科研与行业实践经验。</p>
+    </section>
+
+    <section id="contact">
+        <h2>联系我们</h2>
+        <p>邮箱：contact@globalfoodscience.com<br>
+           地址：中国上海市浦东新区张江高科技园区</p>
+    </section>
+
+    <footer>
+        © 2025 Global Food Science. 保留所有权利。
+    </footer>
+</body>
+</html>
